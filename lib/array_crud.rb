@@ -1,17 +1,17 @@
 def create_an_empty_array
-  
+  sounds = []
 end
 
 def create_an_array
-  
+  sounds = [talk, whisper, yell]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  sounds << "humm"
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  sounds << 
 end
 
 def remove_element_from_end_of_array(array)
